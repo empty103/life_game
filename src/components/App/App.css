@@ -1,0 +1,18 @@
+.title {
+    text-align: center;
+    text-align: center;
+    font-weight: 100;
+    font-size: 2rem;
+    padding: 10px 0;
+    margin-bottom: 5%;
+    margin-top: 0;
+    user-select: none;
+    color: #fff;
+    background: #ec5990;
+    border-bottom: 1px solid rgb(79, 98, 148);
+}
+
+
+body {
+    background-color: #ececec;
+}
